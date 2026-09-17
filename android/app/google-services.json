@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551608628054",
+    "project_id": "tasks-compelecated",
+    "storage_bucket": "tasks-compelecated.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551608628054:android:5a45126ccef1222f505cf7",
+        "android_client_info": {
+          "package_name": "com.example.tasks_compeleted"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8LV7qN5R89WocHMHBKZJqgijaNIzkijg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
